@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Musa Ntuli
+# 👋 Hi, I'm Musa Buhle Ntuli
 
 ## 📊 Business Analyst | Marketing Analyst | Data Enthusiast
 
@@ -25,7 +25,7 @@ I’m a data-driven analyst focused on turning raw data into clear business and 
 - [PostgreSQL](chatgpt://generic-entity?number=3)
 
 ### 🐍 Programming
-- Python (Beginner – Data Analysis)
+- Python (Intermediate – Data Analysis)
 
 ---
 
@@ -34,6 +34,7 @@ I’m a data-driven analyst focused on turning raw data into clear business and 
 - Power BI Dashboards (Marketing & Sales)
 - Customer Behaviour & Funnel Analysis
 - Business Performance Reporting
+- Customer relationship management
 
 ---
 
@@ -43,21 +44,6 @@ I’m a data-driven analyst focused on turning raw data into clear business and 
 ---
 
 ## 🚀 Current Goal
-Building a strong portfolio in **SQL + Power BI + Marketing Analytics** to land a Business/Marketing Analyst role.
+Building a strong portfolio in **SQL + Power BI + Excel + Marketing Analytics** to land a Business/Marketing Analyst role.
 
 ---
-
-<!--
-**buhlebee/buhlebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
